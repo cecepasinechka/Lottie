@@ -46,11 +46,11 @@ Animacije Lottie se izvozijo v formatu .json in shranijo v res/raw.
 
 Primer uporabe v tej aplikaciji:
 
-![Intro](https://github.com/3-letnik-UN-2023-2024/my-second-app-cecepasinechka/assets/101733311/61dfe66a-9bd4-4139-a268-c9b5527b648a)
+![Intro](https://github.com/cecepasinechka/Lottie/assets/101733311/a37c4865-975e-4232-addc-c26791566e96)
 
-![Glavna animacija](https://github.com/3-letnik-UN-2023-2024/my-second-app-cecepasinechka/assets/101733311/1ffe099e-0dba-4700-943e-c9187be4f5f7)
+![Glavna animacija](https://github.com/cecepasinechka/Lottie/assets/101733311/7da8fc31-4b96-4415-b627-08c891db6ab6)
 
-![Uspešna prijava](https://github.com/3-letnik-UN-2023-2024/my-second-app-cecepasinechka/assets/101733311/ac887979-1530-4185-aad7-1de7e0603ddc)
+![Uspešna prijava](https://github.com/cecepasinechka/Lottie/assets/101733311/973df84b-a54d-44a0-b7e1-763893685699)
 
 
 ## Dodatni viri
